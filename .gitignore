@@ -1,0 +1,14 @@
+## System and generated files
+.idea
+.vscode
+.DS_Store
+.sass-cache
+
+## Directories
+log/
+dist/
+node_modules/
+
+## Files
+result.xml
+npm-debug.log
